@@ -8,7 +8,7 @@ from groq import Groq
 # Asegúrate de que el archivo datos_anmi.py esté en la misma carpeta
 from datos_anmi import CONOCIMIENTO_ESTRUCTURADO
 
-# --- CONFIGURACIÓN ---
+# --- CONFIGURstreamlit run "ChatBot ANMI/ChatBot.py"ACIÓN ---
 st.set_page_config(page_title="ANMI - Chatbot", page_icon="🛡️")
 
 
